@@ -24,6 +24,17 @@ a {
     align-items: center;
 }
 
+.box2 {
+    margin-top: 8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2 a {
+    font-size: 10em;
+}
+
 .hello {
     font-family: "Press Start 2P", cursive;
     font-size: 150px;
